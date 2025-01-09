@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 # Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=BinodGouda&color=brightgreen)
 
 ## Hi there! 👋 I'm [Your Name]
 [Brief introduction about yourself, your background, and what you're passionate about.]
