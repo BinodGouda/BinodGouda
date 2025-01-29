@@ -4,7 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BinodGouda&color=brightgreen)
 
-## Hi there! 👋 I'm [Your Name]
 [Brief introduction about yourself, your background, and what you're passionate about.]
 
 ## 🚀 About Me
